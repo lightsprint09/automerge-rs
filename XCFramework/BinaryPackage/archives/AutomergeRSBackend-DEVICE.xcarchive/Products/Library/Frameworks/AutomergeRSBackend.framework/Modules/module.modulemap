@@ -1,0 +1,6 @@
+framework module AutomergeRSBackend {
+  umbrella header "AutomergeRSBackend.h"
+
+  export *
+  module * { export * }
+}
