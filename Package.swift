@@ -12,6 +12,6 @@ let package = Package(
     targets: [
         .binaryTarget(name: "AutomergeRSBackend",
                       url: "https://github.com/lightsprint09/automerge-rs/releases/download/v0.0.3/AutomergeRSBackend.xcframework.zip",
-                      checksum: "25cadcbfac65002af96fca00a8e53f675b02af4cb980c105372b090eb4716c07")
+                      checksum: "b86e04e80597222c0a7fd5a9a8a67ba518c502f065c8d5013596dcfc9abf7beb")
     ]
 )
